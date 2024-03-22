@@ -21,7 +21,7 @@
   --hover-color: rgba(255, 0, 112, 0.40);
 }
 
-.theme_dark .header__decorated-text {
+.page.theme_dark .header__decorated-text {
   display: flex;
 }
 
