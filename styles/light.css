@@ -16,7 +16,6 @@
   --title-color: #ffc2e6;
   --hover-color: rgba(50, 49, 45, 0.4);
   --bg-image: url(../images/cover-image-light.png);
-  ;
 }
 
 .theme_light .header__decorated-text {
@@ -54,18 +53,5 @@
     --title-color: #ffc2e6;
     --hover-color: rgba(50, 49, 45, 0.4);
     --bg-image: url(../images/cover-image-light.png);
-    ;
-  }
-
-  .header__decorated-text {
-    display: none;
-  }
-
-  .header__subtitle {
-    color: var(--text-color, #353430);
-  }
-
-  .section__header {
-    color: var(--text-color, #353430);
   }
 }
