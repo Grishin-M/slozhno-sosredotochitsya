@@ -18,6 +18,7 @@
   --subtitle-color-primary: #FF0070;
   --subtitle-color-secondary: #000028;
   --bg-image: url(../images/cover-image-dark.png);
+  --hover-color: rgba(255, 0, 112, 0.40);
 }
 
 .theme_dark .header__decorated-text {
@@ -33,6 +34,7 @@
     --title-color: #db00ff;
     --title-shadow: #ff0070;
     --bg-image: url(../images/cover-image-dark.png);
+    --hover-color: rgba(255, 0, 112, 0.40);
   }
 
 
